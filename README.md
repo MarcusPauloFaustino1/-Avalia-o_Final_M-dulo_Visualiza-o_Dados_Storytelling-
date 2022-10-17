@@ -1,3 +1,5 @@
+Criação de visual utilizando Python + Plotly
+
 www.growdev.com.br
 
 Atividade Prática Complementar
